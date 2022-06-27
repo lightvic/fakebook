@@ -1,0 +1,23 @@
+body{
+    background-color: #00007A;
+    color: #AFD3E9;
+}
+
+button{
+    background-color: #AFD3E9;
+}
+
+.articleColor {
+    background-color:  #97C6E3;
+}
+
+#article {
+    background-color: #97C6E3;
+    color: black;
+}
+
+.baseProfile {
+    background-color: #00007A;
+    color: #AFD3E9;;
+    margin-top: 10px;
+}
